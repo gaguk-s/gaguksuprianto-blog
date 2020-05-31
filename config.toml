@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gaguk Suprianto Blog"
+theme = "gaguk-theme"
+
+[taxonomies]
+category = "categories"
+
+
