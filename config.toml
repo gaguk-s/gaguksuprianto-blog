@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://practical-babbage-56977b.netlify.app/"
 languageCode = "en-us"
 title = "Gaguk Suprianto Blog"
 theme = "gaguk-theme"
